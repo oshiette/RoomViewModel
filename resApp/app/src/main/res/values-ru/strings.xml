@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">resApp</string>
+    <string name="name">Добро пожаловать в Японию</string>
+    <string name="description">Тута людей напрягают броуу</string>
+    <string name="trip">Переехать</string>
+    <string name="noTrip">Остаться</string>
+    <string name="image1">TODO</string>
+    <string name="Cong">Поздравляю</string>
+    <string name="Unlucky">Не повезло</string>
+    <string name="fate">Сделай выбор, решающий твою судьбу</string>
+</resources>
