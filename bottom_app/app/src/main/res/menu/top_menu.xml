@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Завтра"
+        android:id="@+id/topItem1"
+        android:orderInCategory="1"></item>
+
+    <item
+        android:title="Обед"
+        android:id="@+id/topItem2"
+        android:orderInCategory="2"></item>
+
+    <item
+        android:title="Полдник"
+        android:id="@+id/topItem3"
+        android:orderInCategory="3"></item>
+
+    <item
+        android:title="Ужин"
+        android:id="@+id/topItem4"
+        android:orderInCategory="4"></item>
+</menu>

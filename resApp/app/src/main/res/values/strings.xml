@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">resApp</string>
+    <string name="name">Welcome to Japan</string>
+    <string name="description">Here people are stressed brooo</string>
+    <string name="trip">Move</string>
+    <string name="noTrip">Stay</string>
+    <string name="image1">TODO</string>
+    <string name="Unlucky">Unlucky</string>
+    <string name="fate">Make the choice that decides your fate</string>
+    <string name="todo">TODO</string>
+    <string name="Cong">Congratulations</string>
+</resources>
